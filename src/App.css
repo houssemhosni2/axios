@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+}
+.App {
+  text-align: center;
+  background-color: #301728FF;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block{
+  background-color: #9F6B99FF;
+  width: 40%;
+  padding: 50px 0;
+  border-radius: 15%;
+}
+.block h1{
+  color: #4F3466FF;
+  padding: 0 0 20px 0;
+}
+.users{
+  display: flex;
+  flex-direction: column;
+}
+.users h3{
+  color: #301728FF;
+}
